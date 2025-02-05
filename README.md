@@ -1,4 +1,4 @@
-# Fraud_Dectection
+# Fraud Detection
 
 This study aims to solve the difficulties in detecting fraud in consumer transactions and analyze
 more efficient strategies for successfully preventing fraud. Financial institutions may limit financial
